@@ -12,7 +12,7 @@ DRM_Data.csv is the result, which is then used for the Jupyter Notebook.
 - MV_PropertiecShowVN: Contains information about movies: movie identifier (id), main genre (toptitle), title (titleEN), release year (release), actors (actors), directors (directors), flag only DRM support with 0 being no DRM support and 1 being DRM support (isDRM),...
 - Log_Fimplus_movieID: Record activities related to watching customer Film Plus movies: customer identifier (customerid), movie identifier (movieid), file type (Ftype), movie playing time (Realtimeplaying), movie viewing time ( Date), movie folder (Folder), user type (Utype).
 # Definition - Conceptual Map - Data Model - HowTo
-Refer to Documents_ERD.xlsx
+Refer to documents_ERD.xlsx
 
 
 
